@@ -1,0 +1,17 @@
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.pytest_cache/
+# Local caches and settings
+.DS_Store
+.idea/
+.vscode/
+# Large, separately licensed Kaggle data; download as described in data/README.md
+data/*.csv
+# Generated files and local temporary models
+*.joblib
+*.pkl
+logs/

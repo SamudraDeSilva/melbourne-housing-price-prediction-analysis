@@ -1,0 +1,64 @@
+{
+  "original_uploaded_notebook": "Melbourne_Housing_Price_Prediction_Corrected(2).ipynb",
+  "retained_cells": 269,
+  "code_cells": 143,
+  "markdown_cells": 126,
+  "failed_cells": 0,
+  "metrics": {
+    "model": "XGBoost + Type",
+    "r2": "0.8174",
+    "rmse": "269,347.86",
+    "mae": "172,488.79",
+    "baseline": "630,259.30"
+  },
+  "cv_results": {
+    "XGBoost + Type": [
+      0.796,
+      288815.293,
+      173923.08
+    ],
+    "XGBoost": [
+      0.775,
+      303009.576,
+      185277.662
+    ],
+    "Linear Regression + Type": [
+      0.573,
+      417503.615,
+      260467.33
+    ],
+    "Linear Support Vector Regression": [
+      0.524,
+      439711.986,
+      274174.491
+    ],
+    "Linear Regression": [
+      0.524,
+      439713.601,
+      274180.57
+    ]
+  },
+  "dependency_versions": {
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "sklearn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2",
+    "plotly": "6.5.2",
+    "xgboost": "3.1.3"
+  },
+  "source_dataset": "https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot",
+  "source_dataset_in_public_package": false,
+  "limitations": [
+    "Historical dataset: 2016–2017.",
+    "Random hold-out evaluation is not a future-market forecast.",
+    "Confirm any collaborators before publication."
+  ],
+  "project_history": {
+    "original_development_period": "January 2023 – June 2023",
+    "technical_revision_period": "November 2026",
+    "public_repository_preparation": "November 2026",
+    "dataset_transaction_period": "January 2016 – September 2017",
+    "notes": "2026 results are from corrected validation workflow, not presented as original 2023 results."
+  }
+}

@@ -1,0 +1,6 @@
+Model,CV_R2,CV_RMSE_AUD,CV_MAE_AUD,Selected_for_holdout,Holdout_R2,Holdout_RMSE_AUD,Holdout_MAE_AUD
+XGBoost + Type,0.796,288815.293,173923.080,Yes,0.8174,269347.86,172488.79
+XGBoost,0.775,303009.576,185277.662,No,,,
+Linear Regression + Type,0.573,417503.615,260467.330,No,,,
+Linear Support Vector Regression,0.524,439711.986,274174.491,No,,,
+Linear Regression,0.524,439713.601,274180.570,No,,,
