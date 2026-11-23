@@ -103,6 +103,12 @@ The November 2026 validation metrics reflect the **revised** modelling workflow 
 
 ## Dataset credit and licence
 
-**Dataset:** DanB / Dan Becker, [Melbourne Housing Snapshot](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot), a snapshot derived from **Tony Pino's Melbourne housing dataset** (September 2017). Kaggle lists the dataset under **Creative Commons Attribution–NonCommercial–ShareAlike 4.0 (CC BY-NC-SA 4.0)**. See [data/README.md](data/README.md) for source and licensing details. The original dataset is **not included** in this public-repository package; download it from Kaggle. Do not assume the dataset's licence automatically applies to the notebook code, or vice versa.
+**Dataset:** [Melbourne Housing Snapshot](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot), published on Kaggle by Dan Becker (DanB), based on Melbourne housing data originally compiled by Tony Pino.
 
-**Contributions:** The original notebook's writing, structure and any contributor labels are retained. Before publication, verify any collaborators and acknowledge their respective contributions where applicable. Add a code licence separately if you intend to grant reuse rights for the code.
+The dataset is attributed to its original contributors and remains subject to the licensing terms specified by its provider. Further information about the dataset, its provenance and usage conditions is available in [data/README.md](data/README.md).
+
+The original dataset is not included in this repository and can be obtained directly from Kaggle.
+
+**Contributions:** This repository presents the data preprocessing, exploratory analysis, visualisations, machine-learning implementation and predictive modelling documented in the accompanying Jupyter notebook.
+
+The analysis and supporting documentation are provided for academic reference, technical evaluation and research transparency. Original dataset ownership and any applicable third-party contributions remain acknowledged.
