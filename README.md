@@ -101,7 +101,7 @@ These figures were reproduced by executing all 143 code cells using the supplied
 
 The November 2026 validation metrics reflect the **revised** modelling workflow and should not be presented as the originally reported 2023 results. GitHub commits will display their actual 2026 creation dates; they have not been backdated.
 
-## Dataset credit and licence
+## Dataset attribution, License and Citation
 
 **Dataset:** [Melbourne Housing Snapshot](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot), published on Kaggle by Dan Becker (DanB), based on Melbourne housing data originally compiled by Tony Pino.
 
@@ -109,6 +109,16 @@ The dataset is attributed to its original contributors and remains subject to th
 
 The original dataset is not included in this repository and can be obtained directly from Kaggle.
 
-**Contributions:** This repository presents the data preprocessing, exploratory analysis, visualisations, machine-learning implementation and predictive modelling documented in the accompanying Jupyter notebook.
+### Research Contributions:
+
+This repository presents the data preprocessing, exploratory analysis, visualisations, machine-learning implementation and predictive modelling documented in the accompanying Jupyter notebook.
 
 The analysis and supporting documentation are provided for academic reference, technical evaluation and research transparency. Original dataset ownership and any applicable third-party contributions remain acknowledged.
+
+### License
+
+The original source code and analytical implementation developed for this project are available under the [MIT licence](LICENSE), permitting reuse, modification and distribution in accordance with its terms. Third-party datasets remain subject to their respective licensing conditions.
+
+### Citation
+
+This research project was developed by Samudra De Silva. Researchers and practitioners referencing this work are encouraged to cite the repository using the information provided in [CITATION.cff](CITATION.cff).
