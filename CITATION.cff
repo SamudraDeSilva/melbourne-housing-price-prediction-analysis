@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this repository and the related research where applicable."
+title: "Melbourne Housing Price Prediction and Analysis"
+authors:
+  - family-names: "De Silva"
+    given-names: "Samudra N."
+    orcid: "https://orcid.org/0009-0004-7423-3066"
+type: software
+license: MIT
